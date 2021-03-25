@@ -1,5 +1,7 @@
-<p>
-<img align="right" src="https://user-images.githubusercontent.com/71078903/112381048-089df800-8ce2-11eb-96f9-7a45828e16a0.png" width="30%">
+
+[<img align="right" title="by Jonathan Golding" src="https://user-images.githubusercontent.com/71078903/112381048-089df800-8ce2-11eb-96f9-7a45828e16a0.png" width="30%">](https://fineartamerica.com/featured/astronaut-balloons-stars-space-planets-pluto-jonathan-golding.html)
+
+
 <p align="left">
 <p align="top">
 
@@ -14,16 +16,20 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
 </p>
 
-<br><br><br><br><br>
+<br><br><br><br>
 </p>
 
 
 ## Trabalhando atualmente em:
 
-<p>
-<img title="Status" src="https://github-readme-stats.vercel.app/api/pin?username=HugoRodriguesQW&repo=text-editor" width="49%" > 
-<img  title="Status" src="https://github-readme-stats.vercel.app/api/pin?username=HugoRodriguesQW&repo=next-level-week-4" width="49%" >
+<p align="center">
+<span align="left">
+  <img align="top" title="Editor" src="https://github-readme-stats.vercel.app/api/pin?username=HugoRodriguesQW&repo=text-editor" width="49.75%" ></span>
+  
+<span align="right">
+  <img align="top" title="Move.it" src="https://github-readme-stats.vercel.app/api/pin?username=HugoRodriguesQW&repo=next-level-week-4" width="49.75%" ></span>
 </p>
+
 </p>
 
 <br>
@@ -32,12 +38,12 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 
 ## Status:
 
-<p>
-<span>
-<img  align="top" title="Status" src="https://github-readme-stats.vercel.app/api?username=HugoRodriguesQW&hide=stars&show_icons=true" width="49%">
+<p align="center">
+<span align="left">
+<img  align="top" title="Status" src="https://github-readme-stats.vercel.app/api?username=HugoRodriguesQW&hide=stars&show_icons=true" width="49.75%">
 </span>
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorodriguesqw&layout=compact"  width="49%" >
+<span align="right">
+<img align="top" title="" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorodriguesqw&layout=compact"  width="49.75%" >
 </span>
 </p>
 </p>
