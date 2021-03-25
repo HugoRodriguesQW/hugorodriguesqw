@@ -1,5 +1,3 @@
-{{ ISSUES }}
-
 [<img align="right" title="by Jonathan Golding" src="https://user-images.githubusercontent.com/71078903/112381048-089df800-8ce2-11eb-96f9-7a45828e16a0.png" width="30%" />](https://fineartamerica.com/featured/astronaut-balloons-stars-space-planets-pluto-jonathan-golding.html)
 
 
