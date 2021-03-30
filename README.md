@@ -118,9 +118,7 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 <p align="top">
 <p align="left">
   
-[ <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/> ](mailto:mailvitorhugosr@gmail.com) [ <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/) [ <img src="https://img.shields.io/badge/GITHUB-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/hugorodriguesqw/) [ <img src="https://img.shields.io/badge/-CODEWARS-bb432c?style=flat-square&logo=codewars&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/) [ <img src="https://img.shields.io/badge/CODEPEN-000000?style=flat-square&logo=codepen&logoColor=white" />](https://github.com/hugorodriguesqw/) [ <img align="right" src="https://komarev.com/ghpvc/?username=HugoRodriguesQW&label=views&style=flat-square" alt="HugoRodriguesQW" />](#)
+[ <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/> ](mailto:mailvitorhugosr@gmail.com) [ <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/) [ <img src="https://img.shields.io/badge/GITHUB-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/hugorodriguesqw/) [ <img src="https://img.shields.io/badge/-CODEWARS-bb432c?style=flat-square&logo=codewars&logoColor=white" />](https://www.codewars.com/users/HugoRodriguesQW) [ <img src="https://img.shields.io/badge/CODEPEN-000000?style=flat-square&logo=codepen&logoColor=white" />](https://codepen.io/hugorodriguesqw) [ <img align="right" src="https://komarev.com/ghpvc/?username=HugoRodriguesQW&label=views&style=flat-square" alt="HugoRodriguesQW" />](#)
 
 </p>
 </p>
-
-
