@@ -16,11 +16,9 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
 
 
-<br><br><br><br>
-
+<br><br>
 <p align="center">
   
-
 ## Status:
 
 <p align="center">
