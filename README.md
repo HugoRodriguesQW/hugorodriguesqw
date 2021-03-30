@@ -20,20 +20,6 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 
 <p align="center">
   
-## Trabalhando atualmente em:
-
-<p align="center">
-<span align="left">
-  <img align="top" title="Editor" src="https://github-readme-stats.vercel.app/api/pin?username=HugoRodriguesQW&repo=text-editor" width="49.75%" /></span>
-  
-<span align="right">
-  <img align="top" title="Move.it" src="https://github-readme-stats.vercel.app/api/pin?username=HugoRodriguesQW&repo=next-level-week-4" width="49.75%" /></span>
-</p>
-</p>
-
-<br>
-
-<p align="center">
 
 ## Status:
 
