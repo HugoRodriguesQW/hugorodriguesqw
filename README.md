@@ -33,4 +33,21 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
 </p>
 
+<p align="top">
+<p align="left">
+  
+[ <img align="left" src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /> ](mailto:mailvitorhugosr@gmail.com)
 
+[ <img align="left" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/)
+
+[ <img align="left" src="https://img.shields.io/badge/-CODEWARS-bb432c?style=flat-square&logo=codewars&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/)
+
+[ <img align="right" src="https://komarev.com/ghpvc/?username=HugoRodriguesQW&label=views&style=flat-square" alt="HugoRodriguesQW" />](#)
+
+</p>
+</p>
+
+
+<span align="top">
+
+</span>
