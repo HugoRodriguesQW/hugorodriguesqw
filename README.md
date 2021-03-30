@@ -23,12 +23,12 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 ## Status:
 
 <p align="top">
-<p align="center">
+<p align="left">
   
-[<img  align="left" title="Status" src="https://github-readme-stats.vercel.app/api?username=HugoRodriguesQW&hide=stars&show_icons=true" width="48%" >](#)
+[<img title="Status" src="https://github-readme-stats.vercel.app/api?username=HugoRodriguesQW&hide=stars&show_icons=true" width="48%" >](#)
 
 
-[<img align="right" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorodriguesqw&layout=compact"  width="48%" >](#)
+[<img  title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorodriguesqw&layout=compact"  width="48%" >](#)
 
 </p>
 </p>
