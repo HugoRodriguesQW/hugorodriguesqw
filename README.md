@@ -31,7 +31,7 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
 
 ## Linguagens e Ferramentas:
-> Linguagens, ferramentas e outras coisas.
+> Linguagens, ferramentas e outras coisas **incríveis**.
 
 <table>
   <tr>
