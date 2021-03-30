@@ -25,28 +25,12 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 <p align="top">
 <p align="center">
   
-[<img  align="left" title="Status" src="https://github-readme-stats.vercel.app/api?username=HugoRodriguesQW&hide=stars&show_icons=true" width="50%" />](#)
+[<img  align="left" title="Status" src="https://github-readme-stats.vercel.app/api?username=HugoRodriguesQW&hide=stars&show_icons=true" width="48%" >](#)
 
 
-[<img align="right" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorodriguesqw&layout=compact"  width="50%" />](#)
+[<img align="right" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorodriguesqw&layout=compact"  width="48%" >](#)
 
 </p>
 </p>
-
-<br><br><br><br>
-
-<span align="top">
-
-[ <img align="left" src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /> ](mailto:mailvitorhugosr@gmail.com)
-
-[ <img align="left" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/)
-
-[ <img align="left" src="https://img.shields.io/badge/-CODEWARS-bb432c?style=flat-square&logo=codewars&logoColor=white" />](https://linkedin.com/in/hugorodriguesqw/)
-
-</span>
-
-<span align="top">
-<img align="right" src="https://komarev.com/ghpvc/?username=HugoRodriguesQW&label=views&style=flat-square" alt="HugoRodriguesQW" />
-</span>
 
 
