@@ -79,8 +79,8 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
       <br>CSS3&nbsp;
    </td>
    <td align="center" width="99">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WP" />
-      <br>WordPress&nbsp;
+       <img src="https://paiza.cloud/assets/images/logo/paizacloud_logo_icon_752x752.png" width="48" height="48" alt="WP" />
+      <br>PaizaCloud&nbsp;
    </td>
    <td align="center" width="99">
        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-lubuntu-icon.png" width="48" height="48" alt="Ubuntu mais leve :)" />
