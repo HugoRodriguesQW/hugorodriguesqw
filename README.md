@@ -10,9 +10,9 @@
 
 # Olá 👋!
 
-Sou Hugo, tenho 18 anos e sou apaixonadíssimo por programação!
+Sou Hugo, tenho 19 anos e sou apaixonadíssimo por programação!
 
-Eu tinha 14 quando esse mundo se abriu para mim. Minha curiosidade em saber como as coisas funcionam unida ao meu apego pelos jogos me levaram à <b><i>Unity Game Engine</i></b>. Não foi amor a primeira vista, levaram meses de briga com o <b><i>C#</b></i> para despertar o gostinho de criar, transformar, desenvolver. Quatro anos depois, aqui estou eu.
+Eu tinha 14 quando esse mundo se abriu para mim. Minha curiosidade em saber como as coisas funcionam unida ao meu apego pelos jogos me levaram à <b><i>Unity Game Engine</i></b>. Não foi amor a primeira vista, levaram meses de briga com o <b><i>C#</b></i> para despertar o gostinho de criar, transformar, desenvolver. Anos depois, aqui estou eu.
 
 Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
