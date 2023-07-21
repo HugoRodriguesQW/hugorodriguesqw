@@ -1,7 +1,3 @@
-
-
-
-
 [<img align="right" title="by Jonathan Golding" src="https://user-images.githubusercontent.com/71078903/112381048-089df800-8ce2-11eb-96f9-7a45828e16a0.png" width="30%" />](https://fineartamerica.com/featured/astronaut-balloons-stars-space-planets-pluto-jonathan-golding.html)
 
 
@@ -18,12 +14,17 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
 </p>
 
-## O que estou fazendo?
+## O que estou fazendo agora?
 
 <p align="top">
 <p align="left">
+
+[<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/neuron'>](#) [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/schema'>](#) [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/smartseg'>](#)  [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/reactweb-js'>](#)
+
+
+## Estatísticas
  
-[<img  width="66%" src="https://raw.githubusercontent.com/HugoRodriguesQW/hugorodriguesqw/main/profile-summary-card-output/default/0-profile-details.svg">](#)
+[<img  width="100%" src="https://raw.githubusercontent.com/HugoRodriguesQW/hugorodriguesqw/main/profile-summary-card-output/default/0-profile-details.svg">](#)
 
 [<img width="24%" src="https://raw.githubusercontent.com/HugoRodriguesQW/hugorodriguesqw/main/profile-summary-card-output/default/1-repos-per-language.svg">](#)[<img width="24%" src="https://raw.githubusercontent.com/HugoRodriguesQW/hugorodriguesqw/main/profile-summary-card-output/default/2-most-commit-language.svg">](#)[<img width="24%" src="https://raw.githubusercontent.com/HugoRodriguesQW/hugorodriguesqw/main/profile-summary-card-output/default/3-stats.svg">](#) [<img  align="right" width="24%" src="https://raw.githubusercontent.com/HugoRodriguesQW/hugorodriguesqw/main/profile-summary-card-output/default/4-productive-time.svg">](#)
 
@@ -31,7 +32,7 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 </p>
 
 ## Linguagens e Ferramentas:
-> Linguagens, ferramentas e outras coisas **incríveis**.
+> Linguagens, ferramentas e outras coisas **incríveis** que estou usando ou aprendendo.
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
     </td>
     <td align="center" width="99">
         <img src="https://cdn.auth0.com/blog/react-js/react.png" width="48" height="48" alt="React" />
-      <br>React&nbsp;
+      <br>ReactJS&nbsp;
     </td>
     <td align="center" width="96=9">
         <img src="https://user-images.githubusercontent.com/71078903/113013264-17b1f980-916b-11eb-96f5-89f3d599428a.png" width="48" height="48" alt="Next" />
@@ -79,28 +80,28 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
       <br>CSS3&nbsp;
    </td>
    <td align="center" width="99">
-       <img src="https://paiza.cloud/assets/images/logo/paizacloud_logo_icon_752x752.png" width="48" height="48" alt="WP" />
-      <br>PaizaCloud&nbsp;
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" width="48" height="48" alt="Socket" />
+      <br>Socket.IO&nbsp;
    </td>
    <td align="center" width="99">
-       <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-lubuntu-icon.png" width="48" height="48" alt="Ubuntu mais leve :)" />
-      <br>Lubuntu&nbsp;
+       <img src="https://static-00.iconduck.com/assets.00/pop-os-icon-512x512-j4ghbj1n.png" width="48" height="48" alt="Ubuntu mais leve :)" />
+      <br>Pop!OS&nbsp;
    </td>
    <td align="center" width="99">
        <img src="https://img.icons8.com/color/452/nodejs.png" width="48" height="48" alt="NodeJS" />
       <br>NodeJS&nbsp;
    </td>
    <td align="center" width="99">
-       <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="Yarn" />
-      <br>Yarn&nbsp;
+       <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" width="48" height="48" alt="npm" />
+      <br>NPM&nbsp;
    </td>
    <td align="center" width="99">
        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" width="48" height="48" alt="Unity" />
-      <br>Unity&nbsp;
+      <br>Unity Engine&nbsp;
    </td>
    <td align="center" width="99">
-       <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="48" height="48" alt="Github" />
-      <br>Github&nbsp;
+       <img src="https://cdn-icons-png.flaticon.com/512/6461/6461928.png" width="48" height="48" alt="Deep Learning" />
+      <br>Deep Learning&nbsp;
    </td>
    <td align="center" width="99">
        <img src="https://user-images.githubusercontent.com/71078903/113014472-2220c300-916c-11eb-94a0-a5a6ae814a51.png" width="48" height="48" alt="CodePen" />
