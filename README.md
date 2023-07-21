@@ -19,7 +19,7 @@ Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
 <p align="top">
 <p align="left">
 
-[<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/neuron'>](#) [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/schema'>](#) [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/smartseg'>](#)  [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/reactweb-js'>](#)
+[<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/neuron'>](https://github.com/hugorodriguesqw/neuron) [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/schema'>](https://github.com/hugorodriguesqw/schema) [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/smartseg'>](https://github.com/hugorodriguesqw/smartseg)  [<img width='32.7%' src='https://opengraph.githubassets.com/1233434342238ssdjsljddja/hugorodriguesqw/reactweb-js'>](#)
 
 
 ## Estatísticas
