@@ -8,9 +8,7 @@
 
 Sou Hugo, tenho 21 anos e sou apaixonadíssimo por programação!
 
-Quanto eu tinha 14 esse mundo se abriu para mim. Minha curiosidade em saber como as coisas funcionam unida ao meu apego pelos jogos me levaram à <b><i>Unity Game Engine</i></b>. Não foi amor a primeira vista, levaram meses de briga com o <b><i>C#</b></i> para despertar o gostinho de criar, transformar, desenvolver. Anos depois, aqui estou eu fazendo o que amo e me dedicando ao que considero poderoso e transformador.
-
-Há sempre algo a aprender. O conhecimento é infindo, busque-o já.
+Aos 14 anos, minha curiosidade em entender como as coisas funcionam e meu apego à criação me levaram à Unity. Depois de algumas semanas com o C# e uma comunidade sólida, aprendi conceitos fundamentais que moldaram meu trajeto. Hoje, anos depois, estou fazendo o que amo e me dedicando ao que considero poderoso e transformador.
 </p>
 </p>
 
